@@ -16,7 +16,6 @@ This project is a basic three-tier application with a **frontend**, **backend**,
 ## Application Structure
 
 ```plaintext
-app/
 ├── backend/
 │   ├── app.py               # Flask application code
 │   ├── requirements.txt     # Flask dependencies
