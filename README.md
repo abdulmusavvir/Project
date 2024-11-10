@@ -21,5 +21,5 @@ This project is a basic three-tier application with a **frontend**, **backend**,
 │   ├── requirements.txt     # Flask dependencies
 ├── frontend/
 │   ├── index.html           # HTML for frontend UI
-└── db/
+└── Database/
     ├── init.sql             # SQL file for database initialization
